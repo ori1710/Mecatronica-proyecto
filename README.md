@@ -5,10 +5,8 @@
 </p>
 
 
-<p width="5%">
+<p align="center" width="5%">
     <img width="5%" src="https://github.com/user-attachments/assets/bfc2b202-77c6-487e-b137-8764c356f389">
     CLICK HERE!
     <img width="5%" src="https://github.com/user-attachments/assets/bfc2b202-77c6-487e-b137-8764c356f389">
 </p>
-
-CLICK HERE!
